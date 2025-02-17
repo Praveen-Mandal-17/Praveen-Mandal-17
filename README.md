@@ -1,16 +1,13 @@
-## Hi there 👋
+HEY! Hi,I'm Praveen Kumar Mandal am Passionate Software Developer From India,exploring the world of DSA with JAVA and WEB DEVELOPMENT.I love building cazy Stuff From Window a using web and native Technologies! I Mainly build Products in the Web Development and a "lot"experiments with the latest tech in Frontend Ecosystem.I am Great Learner and able to solve mathmatical computations.
 
-<!--
-**Praveen-Mandal-17/Praveen-Mandal-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Praveen-Mandal-17.
 
-Here are some ideas to get you started:
+👀 I’m interested in DSA with JAVA,Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning ML.
+
+💞️ I’m looking to collaborate on Web And ML projects
+
+📫 How to reach me ns178022@gmail.com
+
+SKILLS C, Java/ Javascript , Web development , MYSQL , Bootstrap, DSA(java), Parallel prgraming and distributing computing ,mathmatical computations
